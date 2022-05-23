@@ -1,7 +1,7 @@
 # sdigo
 Intrusion Detection System by Golang language
 
-This project is not commercial. The goal of the development was to gain knowledge on working with packages using the Go programming languag.
+This project is not commercial. The goal of the development was to gain knowledge on working with packages using the Go programming language.
 
 Found errors, most likely, will not be eliminated. But you can do it for me (if you have nothing to do 😜)
 
